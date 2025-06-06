@@ -5,6 +5,8 @@ Aplicativo desenvolvido como atividade para a matéria de **Aplicativos Mobile**
 ## Integrantes do Grupo
 - Guilherme Kunsch
 - João Victor Sarmento
+- Guilherme dos Santos Cordeiro
+- Miguel Estevam 
 
 ## Tecnologias Utilizadas
 - **Flutter**: Framework de UI para desenvolvimento de aplicativos móveis.
